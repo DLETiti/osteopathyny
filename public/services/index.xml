@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Melissa Ventimiglia, D.O.</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Melissa Ventimiglia, D.O.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infant &amp; Pediatric OMM</title>
+      <link>http://localhost:1313/services/infant-omm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/infant-omm/</guid>
+      <description>Cranial osteopathic treatment for feeding difficulties, torticollis, cranial asymmetry, reflux, and colic.</description>
+    </item>
+    <item>
+      <title>Adult Musculoskeletal Care</title>
+      <link>http://localhost:1313/services/adult-care/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/adult-care/</guid>
+      <description>Treatment for neck/back pain, migraine, TMJD, arthritis, stenosis, lymphedema, and joint issues.</description>
+    </item>
+    <item>
+      <title>ALF Appliance Support</title>
+      <link>http://localhost:1313/services/alf-appliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/alf-appliance/</guid>
+      <description>Team-based care with dentists and myofunctional therapists using the Advanced Lightwire Functional (ALF) appliance.</description>
+    </item>
+    <item>
+      <title>Pregnancy &amp; Postpartum Care</title>
+      <link>http://localhost:1313/services/pregnancy-postpartum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/pregnancy-postpartum/</guid>
+      <description>Treatment during pregnancy and postpartum house calls for new mothers and newborns.</description>
+    </item>
+  </channel>
+</rss>

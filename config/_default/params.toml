@@ -1,0 +1,53 @@
+# Color Scheme Options:
+#   congo    — Default purple/violet tones
+#   avocado  — Green, earthy tones
+#   cherry   — Red/pink tones
+#   fire     — Orange/amber warm tones
+#   ocean    — Blue tones (current selection — calming, medical-appropriate)
+#   sapphire — Deep blue/indigo tones
+#   slate    — Neutral gray tones
+#   custom   — Create your own: assets/css/schemes/<name>.css
+colorScheme = "ocean"
+
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = false
+enableImageLazyLoading = true
+enableImageWebp = true
+
+[header]
+  layout = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+
+[article]
+  showDate = false
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = false
+  showTableOfContents = true
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+
+[list]
+  showBreadcrumbs = true
+  showTableOfContents = false
+  showSummary = true
+  groupByYear = false

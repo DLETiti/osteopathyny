@@ -1,0 +1,24 @@
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 20
+
+[[main]]
+  name = "FAQ"
+  pageRef = "faq"
+  weight = 30
+
+[[main]]
+  name = "For Providers"
+  pageRef = "referring-providers"
+  weight = 40
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 50

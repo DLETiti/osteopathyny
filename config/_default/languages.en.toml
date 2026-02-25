@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Melissa Ventimiglia, D.O."
+
+[params]
+  dateFormat = "January 2, 2006"
+  description = "Osteopathic Manipulative Medicine practice serving the greater New York City area. Dr. Melissa Ventimiglia specializes in treating patients from newborns to elderly with traditional osteopathic techniques."
+
+  [params.author]
+    name = "Melissa Ventimiglia, D.O."
+    image = "img/melissa-ventimiglia.jpg"
+    headline = "Osteopathic Manipulative Medicine — New York City"
+    bio = "Board certified in Neuromuscular Medicine/Osteopathic Manipulative Medicine (NMM/OMM). Treating patients of all ages with traditional osteopathic techniques since 2004."
+
+    [[params.author.links]]
+      email = "mailto:drv@melissaventimiglia.com"
+    [[params.author.links]]
+      phone = "tel:+12126626560"
