@@ -20,10 +20,10 @@ To schedule an appointment, please call or email directly. Dr. Ventimiglia or he
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
   <input type="hidden" name="form-name" value="contact" />
   <p style="display:none"><label>Don't fill this out: <input name="bot-field" /></label></p>
-  <p><label>Your Name<br /><input type="text" name="name" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;" /></label></p>
-  <p><label>Your Email<br /><input type="email" name="email" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;" /></label></p>
+  <p><label>Your Name (required)<br /><input type="text" name="name" required aria-required="true" style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;" /></label></p>
+  <p><label>Your Email (required)<br /><input type="email" name="email" required aria-required="true" style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;" /></label></p>
   <p><label>Phone Number<br /><input type="tel" name="phone" style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;" /></label></p>
-  <p><label>How Can We Help?<br /><textarea name="message" rows="5" required style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;"></textarea></label></p>
+  <p><label>How Can We Help? (required)<br /><textarea name="message" rows="5" required aria-required="true" style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;"></textarea></label></p>
   <p><button type="submit" style="padding:10px 24px;background:#2563eb;color:white;border:none;border-radius:4px;cursor:pointer;">Send Message</button></p>
 </form>
 
