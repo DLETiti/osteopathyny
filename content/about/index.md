@@ -1,14 +1,14 @@
 ---
-title: "About Dr. Ventimiglia"
+title: "About"
 description: "Board certified in Neuromuscular Medicine/Osteopathic Manipulative Medicine"
 showTableOfContents: true
 ---
 
-Dr. Melissa Ventimiglia treats infants with cranial osteopathic manipulative medicine who have feeding issues, torticollis, cranial asymmetry, reflux, and colic. She also lectures to and works closely with many lactation consultants in NYC.
+I treat infants with cranial osteopathic manipulative medicine who have feeding issues, torticollis, cranial asymmetry, reflux, and colic. I also lecture to and work closely with many lactation consultants in NYC.
 
-Dr. Ventimiglia has advanced training in osteopathy and functional dentistry using the Advanced Lightwire Functional (ALF) appliance. She utilizes a team approach with dentists and myofunctional therapists as child and adult patients undergo treatment with ALF.
+I have advanced training in osteopathy and functional dentistry using the Advanced Lightwire Functional (ALF) appliance. I utilize a team approach with dentists and myofunctional therapists as child and adult patients undergo treatment with ALF.
 
-Dr. Ventimiglia treats many adult patients with various musculoskeletal and neurologic presentations, such as neck/back pain, migraine, temporomandibular joint disorder (TMJD), arthritis, stenosis, lymphedema, and joint issues. She treats patients during pregnancy and will conduct postpartum house calls for new mothers and newborns if requested.
+I treat many adult patients with various musculoskeletal and neurologic presentations, such as neck/back pain, migraine, temporomandibular joint disorder (TMJD), arthritis, stenosis, lymphedema, and joint issues. I also treat patients during pregnancy and will conduct postpartum house calls for new mothers and newborns if requested.
 
 ## Education & Training
 
@@ -19,17 +19,17 @@ Dr. Ventimiglia treats many adult patients with various musculoskeletal and neur
 
 ## Teaching & Academic Work
 
-Dr. Ventimiglia rejoined her alma mater, NYITCOM, as an Assistant Professor in 2007. She leads workshops and teaches medical students during hands-on OMM laboratory sessions.
+I rejoined my alma mater, NYITCOM, as an Assistant Professor in 2007. I lead workshops and teach medical students during hands-on OMM laboratory sessions.
 
-Dr. Ventimiglia teaches physicians and students in cranial osteopathic manipulative medicine, serving as teaching faculty for:
+I teach physicians and students in cranial osteopathic manipulative medicine, serving as teaching faculty for:
 
 - Osteopathic Cranial Academy
 - Sutherland Cranial Teaching Foundation
 
 ## Practice
 
-Dr. Ventimiglia has been in private practice since 2004. She practices on the Upper West Side in New York City and in Forest Hills, Queens. She treats patients of all ages with traditional osteopathic manipulative medicine.
+I have been in private practice since 2004. I practice on the Upper West Side in New York City and in Forest Hills, Queens. I treat patients of all ages with traditional osteopathic manipulative medicine.
 
 ## Personal
 
-Dr. Ventimiglia lives in Queens with her husband and two children. She enjoys cooking, swimming, meditation, and when time permits, she loves to travel.
+I live in Queens with my husband and two children. I enjoy cooking, swimming, meditation, and when time permits, I love to travel.
